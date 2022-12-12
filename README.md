@@ -2,3 +2,4 @@
 "# flask-mnist-app" 
 "# flask-fashion-mnist-app2" 
 "# flask-fashion-mnist-app3" 
+"# flask-fashion-mnist-app4" 
